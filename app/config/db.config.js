@@ -1,7 +1,8 @@
 module.exports = {
-  //This is my localhost, ask if it can be other locol hosts
+  //This is my localhost, ask if it can be other localhosts
     // HOST: "localhost",
     HOST: "192.168.1.13",
+    PORT: "3306",
     USER: "forbes",
     PASSWORD: "@SMN3559indians!",
     DB: "rugby",

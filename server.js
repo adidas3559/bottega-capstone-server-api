@@ -6,7 +6,7 @@ const app = express();
 
 var corsOptions = {
   // origin: "http://localhost:8081"
-  origin: "//spf-bottega-capstone-rugby.herokuapp.com"
+  origin: "https://spf-bottega-capstone-rugby.herokuapp.com"
 };
 
 app.use(cors(corsOptions));
