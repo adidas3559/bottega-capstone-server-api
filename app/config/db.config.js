@@ -1,7 +1,7 @@
 module.exports = {
   //This is my localhost, ask if it can be other locol hosts
-    HOST: "localhost",
-    // HOST: "192.168.1.13",
+    // HOST: "localhost",
+    HOST: "192.168.1.13",
     USER: "forbes",
     PASSWORD: "@SMN3559indians!",
     DB: "rugby",
